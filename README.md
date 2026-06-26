@@ -1,3 +1,7 @@
-# This is a test
+# My First Repo
 
-hello how are you.
+## How am i learning github?
+
+```
+I am following a course on youtube called "Git / Github for absolute beginners 2026 by Karthik Vutapla"
+```
